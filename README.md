@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Uploading WhatsApp Image 2023-06-15 at 12.22.24 AM.jpeg…]()
+![WhatsApp Image 2023-06-15 at 12 22 23 AM (1)](https://github.com/SHARAN-MJ/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119560305/6a8a6c71-d524-41fe-a753-5b986c33f1e0)
+![WhatsApp Image 2023-06-15 at 12 22 23 AM](https://github.com/SHARAN-MJ/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119560305/d8fb4ab4-946f-4cb3-82e3-6e35daef2335)
 
-### Name:
-### Register Number:
+### Name: SHARAN MJ
+### Register Number: 212222240097
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
